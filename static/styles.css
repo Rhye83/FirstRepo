@@ -1,4 +1,4 @@
-/*body {
+body {
     background-color: yellow;
     font-size: larger;
 }
@@ -7,7 +7,7 @@
     border: 2px black solid;
     display:inline-block;
     width: 200px;
-}*/
+}
 .home-header {
     background-color: red;
     border: 1px black solid;
