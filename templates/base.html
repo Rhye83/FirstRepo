@@ -3,10 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/style.css" rel="stylesheet" type="text/css">
     <title>Base template</title>
 </head>
 <body>
     <h1>Main Section</h1>
+    <div class="nav-menu">
+        <ul id="menu">
+            <li><a href="#">Home</a></li>
+            <li class="active"><a href="#">Add a book</a></li>
+            <li><a href="#">Remove a book</a></li>
+            <li><a href="#">Rent a book</a></li>
+            <li><a href="#">Register a user</a></li>
+        </ul> 
+    </div>
+
     {% block content%}
     {% endblock %}
 </body>
