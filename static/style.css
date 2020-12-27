@@ -1,4 +1,8 @@
-.container {
+div {
+    background-color: yellow;
+    font-size: larger;
+}
+/*.container {
     background-color: white;
     border: 2px black solid;
     display:inline-block;
@@ -13,6 +17,4 @@
     text-align: center;
     font-weight: bold;
     font-size: 32px;
-    height:100px;
-    width: 100%;
-}
+}*/
