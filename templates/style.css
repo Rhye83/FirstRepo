@@ -1,13 +1,13 @@
-div {
+/*body {
     background-color: yellow;
     font-size: larger;
 }
-/*.container {
+.container {
     background-color: white;
     border: 2px black solid;
     display:inline-block;
     width: 200px;
-}
+}*/
 .home-header {
     background-color: red;
     border: 1px black solid;
@@ -17,4 +17,4 @@ div {
     text-align: center;
     font-weight: bold;
     font-size: 32px;
-}*/
+}
