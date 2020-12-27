@@ -4,3 +4,20 @@
     display:inline-block;
     width: 200px;
 }
+.home-header {
+    background-color: red;
+    border: 1px black solid;
+    display:inline-block;
+    width: auto;
+}
+.main-title {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    height:100px;
+    width: 100%;
+}
+.btn.btn-primary.btn-lg.disabled{
+    color: red!important;
+}
