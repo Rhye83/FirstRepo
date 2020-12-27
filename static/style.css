@@ -1,4 +1,4 @@
-.nav-menu {
+.container {
     background-color: white;
     border: 2px black solid;
     display:inline-block;
@@ -9,15 +9,10 @@
     border: 1px black solid;
     display:inline-block;
     width: auto;
-}
-.main-title {
     text-transform: uppercase;
     text-align: center;
     font-weight: bold;
     font-size: 32px;
     height:100px;
     width: 100%;
-}
-.btn.btn-primary.btn-lg.disabled{
-    color: red!important;
 }
