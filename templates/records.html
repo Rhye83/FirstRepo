@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+    {% for a in records %}
+        {{ a.firstName }} <br>
+        {{ a.lastName }} <br>
+        {{ a.dob }} <br>
+        {{ a.idNumber }} <br>
+        {{ a.phoneNumber }} <br>
+    {% endfor %}
+{% endblock %}
